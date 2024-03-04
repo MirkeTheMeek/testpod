@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:content="http://purl.org/rss/1.0/modules/content/" />
-<?xml version="1.0" encoding="UTF-8"?>
 <channel>
-    <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-        xmlns:content="http://purl.org/rss/1.0/modules/content/" />
     <title><![CDATA[Test]]></title>
     <description><![CDATA[Test]]></description>
-    <link>http://podcasting.test/podcast/3</link>
-<itunes:image>https://placekitten.com/g/300/300</itunes:image>
+    <link>https://mirkethemeek.github.io/testpod/</link>
+<itunes:image>https://placekitten.com/g/1500/1500</itunes:image>
     <language>eng</language>
     <itunes:category>Leisure</itunes:category>
     <itunes:explicit>1</itunes:explicit>
@@ -17,7 +14,7 @@
         <description><![CDATA[<p>What tools would help you podcast?</p>]]></description>
         <guid>7edea3d8-e320-4165-b91b-2d441a70f74e</guid>
         <pubDate>Sun, 03 Mar 2024 16:38:00 +0000</pubDate>
-        <link>http://podcasting.test/podcast/3/8</link>
+        <link>https://mirkethemeek.github.io/testpod/episode/surviving-the-anchorpocalypse/</link>
         <itunes:explicit>false</itunes:explicit>
         <enclosure>
             <url>https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-2-3/d62302df-f468-d72e-a7bb-ff82952f5aec.m4a</url>
@@ -27,10 +24,10 @@
     </item>
     <item>
         <title><![CDATA[Testpisode]]></title>
-        <description><![CDATA[<p>Testpisode</p><p><a href="https://forms.gle/QRaZE4qU7zWTfBfq8" target="_blank" rel="noopener noreferer nofollow">https://forms.gle/QRaZE4qU7zWTfBfq8</a></p><p><br></p>]]></description>
+        <description><![CDATA[<p>Testpisode</p>]]></description>
     <guid>33e84e7e-6dcc-406e-871c-967476fe3764</guid>
     <pubDate>Fri, 01 Mar 2024 13:59:58 +0000</pubDate>
-    <link>http://podcasting.test/podcast/3/7</link>
+    <link>https://mirkethemeek.github.io/testpod/episode/testpisode/</link>
     <itunes:explicit>false</itunes:explicit>
     <enclosure>
         <url>https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-8-11/4520072-44100-2-c27e387d2f2b1.m4a</url>
