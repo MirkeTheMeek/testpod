@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[PodTest]]></title>
+		<description><![CDATA[Test things. No need to subscribe or anything.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/pod-test-thingy</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40451300/40451300-1706984398211-efb30c3b664d3.jpg</url>
+			<title>PodTest</title>
+			<link>https://podcasters.spotify.com/pod/show/pod-test-thingy</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sun, 03 Mar 2024 21:33:20 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/f1b45f90/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[PodTest]]></author>
+		<copyright><![CDATA[PodTest]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>PodTest</itunes:author>
+		<itunes:summary>Test things. No need to subscribe or anything.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>PodTest</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40451300/40451300-1706984398211-efb30c3b664d3.jpg"/>
+		<item>
+			<title><![CDATA[What Do you Need to Survive the Anchorpocalypse?]]></title>
+			<description><![CDATA[<p>Lorem ipsum dolor sic amet</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/pod-test-thingy/episodes/What-Do-you-Need-to-Survive-the-Anchorpocalypse-e2gjdr2</link>
+			<guid isPermaLink="false">01c11bf3-7382-46a3-947b-99ed63cef889</guid>
+			<dc:creator><![CDATA[PodTest]]></dc:creator>
+			<pubDate>Sun, 03 Mar 2024 21:29:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f1b45f90/podcast/play/83522850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-3%2Fd62302df-f468-d72e-a7bb-ff82952f5aec.m4a" length="3568447" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Lorem ipsum dolor sic amet&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40451300/40451300-1706984398211-efb30c3b664d3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Testpisode]]></title>
+			<description><![CDATA[<p>Testpisode</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/pod-test-thingy/episodes/Testpisode-e2famr6</link>
+			<guid isPermaLink="false">8c32b58a-897a-4c9d-af0f-9067ae7e9d49</guid>
+			<dc:creator><![CDATA[PodTest]]></dc:creator>
+			<pubDate>Sat, 03 Feb 2024 18:20:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f1b45f90/podcast/play/82188582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-8-11%2F4520072-44100-2-c27e387d2f2b1.m4a" length="47094" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Testpisode&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/QRaZE4qU7zWTfBfq8&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;https://forms.gle/QRaZE4qU7zWTfBfq8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:00:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40451300/40451300-1706984398211-efb30c3b664d3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
